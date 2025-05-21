@@ -258,22 +258,7 @@ These functions establish the relational connections between:
 2. Open `index.html` in a modern web browser
 3. Alternatively, you can use a local development server
 
-## Future Enhancements
-
-- Add post creation functionality
-- Implement user authentication
-- Add pagination for large result sets
-- Enhance mobile responsiveness
-- Add dark mode toggle
-
-## License
-
-MIT
-
-## Author
-
-Ahmed
 
 ---
 
-Feel free to contribute to this project by creating a pull request or opening an issue.
+
